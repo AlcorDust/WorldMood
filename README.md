@@ -6,3 +6,6 @@ This project is divided by two pieces of code:
 * Worldmood_arduino.ino: this arduino script receives the payload string, analyzes it, and controls the addressable leds depending on the message content.
 
 ![Worldmood in action](https://scimaker.files.wordpress.com/2019/12/worldmood_1.jpg)
+
+# LICENSE!
+https://commonsclause.com/
